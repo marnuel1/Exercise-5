@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Exercise HTML5</title>
+</head>
+<body>
+    <h1>Exercises</h1>
+    <h2>HTML5</h2>
+
+    <h3>Bullet List</h3>
+    <ul>
+        <li>Element Item 1</li>
+        <li>Element Item 2</li>
+        <li>Element Item 3</li>
+        <li>Element Item 4</li>
+        <li>Element Item 5</li>
+    </ul>
+
+    <h3>Links</h3>
+    <a href="https://www.google.com/">google</a>
+    <a href="https://www.w3.org/">W3C</a><br>
+    <a href="https://marnuel.w3spaces.com/saved-from-Tryit-2023-05-18.html">html project</a>
+
+    <h3>Image</h3>
+    <img src="https://th.bing.com/th/id/R.786653caa036289ba5978f8a2838bddb?rik=Jace9ATfPow9Cg&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f39300000%2fDog-dogs-39323649-1440-900.jpg&ehk=2j5hJZOGQYQL6IK9FydtWO%2fMjeCvMXSLLgWS2j9jERE%3d&risl=&pid=ImgRaw&r=0" alt="Example Image">
+
+</body>
+</html>
+
